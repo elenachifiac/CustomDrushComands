@@ -1,0 +1,14 @@
+{
+  "name": "drupal/custom_drush",
+  "type": "drupal-module",
+  "description": "Drupal custom module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/custom_drush",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/custom_drush",
+    "source": "http://cgit.drupalcode.org/custom_drush"
+  },
+  "require": { }
+}

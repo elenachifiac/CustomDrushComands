@@ -1,0 +1,5 @@
+name: Custom drush
+type: module
+description: Drupal custom module
+core: 8.x
+package: Custom
